@@ -42,6 +42,7 @@ void main() async{
              measurementId: "G-ZPWCZRH829"
          )
 
+
      );
    }else{
      await Firebase.initializeApp( name: '[DEFAULT]');
