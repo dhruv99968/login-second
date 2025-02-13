@@ -41,6 +41,9 @@ void main() async{
              authDomain: "login-6947c.firebaseapp.com",
              measurementId: "G-ZPWCZRH829"
          )
+
+
+
      );
    }else{
      await Firebase.initializeApp( name: '[DEFAULT]');
