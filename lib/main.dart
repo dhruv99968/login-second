@@ -47,6 +47,8 @@ void main() async{
      );
    }else{
 
+
+
      await Firebase.initializeApp( name: '[DEFAULT]');
 
    }
