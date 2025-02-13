@@ -67,7 +67,7 @@ void main() async{
 }
 // background handler
 Future backgroundHandler(RemoteMessage message) async {
-
+print("sc");
 }
 
 class MyApp extends StatelessWidget {
