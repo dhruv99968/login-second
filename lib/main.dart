@@ -68,6 +68,8 @@ void main() async{
 // background handler
 Future backgroundHandler(RemoteMessage message) async {
 print("new branch");
+
+print("third branch");
 }
 
 class MyApp extends StatelessWidget {
